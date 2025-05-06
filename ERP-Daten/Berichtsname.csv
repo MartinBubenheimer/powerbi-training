@@ -1,0 +1,20 @@
+﻿timestamp,Name,Description,Default Column Layout,Analysis View Name
+0x000000000004B232,ANALYSE,Kapitalstruktur,,
+0x000000000004B23B,BILANZ,HGB Bilanz,,
+0x000000000004B236,CASHFLOW,Berechnung des Cashflows,CASHFLOW,
+0x000000000004B23C,G+V,Gewinn- und Verlustaufstellung HGB,,
+0x000000000004B237,GRAD,Berechnung des Cashflowverhältnisses,GRAD,
+0x0000000000053236,I_CACYCLE,Daten für Diagramm Bargeldumlauf,PERIODEN,
+0x000000000005321E,I_CASHFLOW,Daten für Diagramm Cashflow,PERIODEN,
+0x0000000000053227,I_INCEXP,Daten für Diagramm Einnahmen und Ausgaben,PERIODEN,
+0x000000000005323F,I_MINTRIAL,Daten für Infoteil reduzierte Rohbilanz,PERIODEN,
+0x000000000004B234,KAMPAGNE,Kampagnenanalyse,BUDANALYSE,KAMPAGNE
+0x000000000004B23A,KR-DB,Kostenrechnung - Zus.fass.-Datensatz-DB pro KS/KT,,
+0x000000000004B238,KR-PERS,Kostenrechnung - Personalkosten,,
+0x000000000004B239,KR-UMLAG,Kostenrechnung - Umlagerung,,
+0x00000000000404F2,M-ABSCHL,Nicht ausgeschüttete Gewinne,M-NETTOÄND,
+0x00000000000404EF,M-BILANZ,Bilanz,M-BILANZ,
+0x00000000000404F1,M-CASHFLOW,Cashflowauszug,M-NETTOÄND,
+0x00000000000404F0,M-EINNAHM,GuV,M-NETTOÄND,
+0x000000000004B233,STANDARD,Standardschema,,
+0x000000000004B235,UMSATZ,Umsätze,BUDANALYSE,UMSATZ
